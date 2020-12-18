@@ -1,0 +1,22 @@
+h1{
+    font-size: 40pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#cinza{
+    background-color: gray;
+    color: black;
+    font-size: 14pt;
+}
+
+#verde{
+    background-color: rgb(86, 136, 86);
+    color: green;
+    font-size: 14pt;
+}
+
+#amarelo{
+    background-color: rgb(124, 124, 41);
+    color: rgba(212, 212, 45, 0.829);
+    font-size: 14pt;
+}
